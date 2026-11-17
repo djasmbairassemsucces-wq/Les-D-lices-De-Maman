@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://les-delices-de-maman.djasmbairassemsucces.workers.dev/sitemap.xml
